@@ -1,19 +1,4 @@
-/**
- * HONOR PLEDGE: All work here is honestly obtained and is my own.  Signed:  Aman Haileyesus
- * @author haileyesusa
- * Date of Completion:  1/06/2023
- * Assignment:  Ch11 Index Maker 2.0
- * 
- * Attribution: Ch11 Reading
- * 
- * General Description: Extends (mine uses a field instead) an array list of index entries  
- * 						And contains methods to return stastical information about the document index
- * 
- * Advanced:  
- * 
- * Errata:  
- *
- */
+
 
 
 import java.util.ArrayList;
