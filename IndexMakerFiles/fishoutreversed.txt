@@ -1,0 +1,20 @@
+WHAT (found 1 times): 15
+TWO (found 1 times): 2
+THIS (found 2 times): 11, 14
+THERE (found 1 times): 16
+STAR (found 1 times): 12
+SAY (found 1 times): 15
+RED (found 1 times): 3
+ONE (found 3 times): 1, 11, 14
+OLD (found 1 times): 8
+OF (found 1 times): 16
+NEW (found 1 times): 9
+LOT (found 1 times): 15
+LITTLE (found 2 times): 12, 14
+HAS (found 2 times): 11, 14
+FISH (found 9 times): 1, 2, 3, 4, 6, 7, 8, 9, 16
+CAR (found 1 times): 14
+BLUE (found 2 times): 4, 7
+BLACK (found 1 times): 6
+ARE (found 1 times): 16
+A (found 3 times): 12, 14, 15
